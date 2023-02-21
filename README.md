@@ -1,6 +1,12 @@
 SpectroCoin Bitcoin Payment Extension
 ---------------
 
+**MOVED**
+
+Up to date version can be found in [SpectroCoin Magento Repo](https://github.com/SpectroCoin/Magento-Bitcoin-Payment-Gateway-Extension) or [SpectroCoin Magento 2 Repo](https://github.com/SpectroCoin/Magento-2-Bitcoin-Payment-Gateway-Extension)
+
+---------------
+
 This module integrates [SpectroCoin](https://spectrocoin.com/) Payments with [Magento](http://magento.com/) to accept [Bitcoin](https://bitcoin.org) payments.
 
 **INSTALLATION**
